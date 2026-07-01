@@ -1,0 +1,11 @@
+[
+  {
+    "id": "pharm-mock-3",
+    "title": "Pharmacology Mock 3",
+    "courseCode": "PHM244",
+    "date": "2026-06-28",
+    "duration_minutes": 45,
+    "question_count": 30,
+    "questionsUrl": "https://raw.githubusercontent.com/yourname/cbt-exams/main/pharm-mock-3/questions.json"
+  }
+]
