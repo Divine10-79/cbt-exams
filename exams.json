@@ -7,5 +7,14 @@
     "duration_minutes": 45,
     "question_count": 2,
     "questionsUrl": "https://raw.githubusercontent.com/Divine10-79/cbt-exams/main/pharm-mock-3/questions.json"
+  },
+  {
+    "id": "mth-102-prototype",
+    "title": "MTH 102 TEST",
+    "courseCode": "MTH 102",
+    "date": "2026-07-03",
+    "duration_minutes": 3,
+    "question_count": 3,
+    "questionsUrl": "https://raw.githubusercontent.com/Divine10-79/cbt-exams/main/mth-102-prototype/questions.json"
   }
 ]
