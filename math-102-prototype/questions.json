@@ -20,7 +20,11 @@
     },
     {
       "id": "q3",
+<<<<<<< HEAD
       "text": "What is the derivative of $\\sin(x)$?",
+=======
+      "text": "What is the derivative of $\sin(x)$?",
+>>>>>>> fb4b962 (fix exams and sanitize questions)
       "options": ["cos x", "-cos x", "sin x", "-sin x"],
       "answer": 0,
       "explanation": "The derivative of sin(x) with respect to x is cos(x)."
