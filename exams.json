@@ -16,20 +16,7 @@
     "duration_minutes": 3,
     "question_count": 3,
     "questionsUrl": "https://raw.githubusercontent.com/Divine10-79/cbt-exams/main/math-102-prototype/questions.json"
-<<<<<<< HEAD
   },
-  {
-    "id": "math-102",
-    "title": "MTH 102 CBT",
-    "courseCode": "MTH 102",
-    "date": "2026-07-02",
-    "duration_minutes": 45,
-    "question_count": 50,
-    "questionsUrl": "https://raw.githubusercontent.com/Divine10-79/cbt-exams/main/math-102/question.json"
-=======
->>>>>>> fb4b962 (fix exams and sanitize questions)
-  }
- ,
   {
     "id": "math-102",
     "title": "MTH 102 CBT",
