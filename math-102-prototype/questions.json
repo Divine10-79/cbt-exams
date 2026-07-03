@@ -8,22 +8,22 @@
       "id": "q1",
       "text": "If $f(x) = x^2 + 3$, then use the definition of derivative to find f'(x)?",
       "options": ["-1", "-2x", "None of the above", "x"],
-      "answer": 1,
-      "explanation": "Following the derivative rule, f(x)=x^n, then f'(x)=nx^n-1."
+      "answer": 2,
+      "explanation": "Using the power rule, f'(x)=2x. None of the provided options equals 2x."
     },
     {
       "id": "q2",
       "text": "If $y = (2x + 1)(x + 2)(x + 3)$, then find the derivative of y with respect to x.",
       "options": ["$6x^2 + 17x + 11$", "$6x^2 + 22x + 17$", "None of the above", "$10x^2 + 17x + 11$"],
       "answer": 1,
-      "explanation": "No explanation for you, go and read, WEREY."
+      "explanation": "Expand: (x+2)(x+3)=x^2+5x+6; multiply by (2x+1) to get y=2x^3+11x^2+17x+6. Differentiate to get y'=6x^2+22x+17."
     },
     {
       "id": "q3",
-      "text": "How long have you been a WEREY?",
-      "options": ["2yrs", "5yrs", "Since", "A very long time"],
-      "answer": 3,
-      "explanation": "WEREY, abeg don't be angry oo, nah test i dey test this app."
+      "text": "What is the derivative of $\\sin(x)$?",
+      "options": ["cos x", "-cos x", "sin x", "-sin x"],
+      "answer": 0,
+      "explanation": "The derivative of sin(x) with respect to x is cos(x)."
     }
   ]
 }
