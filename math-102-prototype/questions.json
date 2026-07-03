@@ -1,0 +1,29 @@
+{
+  "id": "math-102-prototype",
+  "title": "MATH 102 TEST",
+  "courseCode": "MTH 102",
+  "duration_minutes": 3,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "If $f(x) = x^2 + 3$, then use the definition of derivative to find f'(x)?",
+      "options": ["-1", "-2x", "None of the above", "x"],
+      "answer": 1,
+      "explanation": "Following the derivative rule, f(x)=x^n, then f'(x)=nx^n-1."
+    },
+    {
+      "id": "q2",
+      "text": "If $y = (2x + 1)(x + 2)(x + 3)$, then find the derivative of y with respect to x.",
+      "options": ["$6x^2 + 17x + 11$", "$6x^2 + 22x + 17$", "None of the above", "$10x^2 + 17x + 11$"],
+      "answer": 1,
+      "explanation": "No explanation for you, go and read, WEREY."
+    },
+    {
+      "id": "q3",
+      "text": "How long have you been a WEREY?",
+      "options": ["2yrs", "5yrs", "Since", "A very long time"],
+      "answer": 3,
+      "explanation": "WEREY, abeg don't be angry oo, nah test i dey test this app."
+    }
+  ]
+}
