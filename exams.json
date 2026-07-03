@@ -15,6 +15,6 @@
     "date": "2026-07-03",
     "duration_minutes": 3,
     "question_count": 3,
-    "questionsUrl": "https://raw.githubusercontent.com/Divine10-79/cbt-exams/main/mth-102-prototype/questions.json"
+    "questionsUrl": "https://raw.githubusercontent.com/Divine10-79/cbt-exams/refs/heads/main/math-102-prototype/questions.json"
   }
 ]
