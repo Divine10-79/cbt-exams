@@ -18,16 +18,12 @@
       "answer": 1,
       "explanation": "Expand: (x+2)(x+3)=x^2+5x+6; multiply by (2x+1) to get y=2x^3+11x^2+17x+6. Differentiate to get y'=6x^2+22x+17."
     },
-    {
+        {
       "id": "q3",
-<<<<<<< HEAD
       "text": "What is the derivative of $\\sin(x)$?",
-=======
-      "text": "What is the derivative of $\sin(x)$?",
->>>>>>> fb4b962 (fix exams and sanitize questions)
       "options": ["cos x", "-cos x", "sin x", "-sin x"],
       "answer": 0,
       "explanation": "The derivative of sin(x) with respect to x is cos(x)."
-    }
+        }
   ]
 }
