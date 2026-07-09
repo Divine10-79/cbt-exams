@@ -5,7 +5,7 @@
     "courseCode": "PHM244",
     "date": "2026-06-28",
     "duration_minutes": 45,
-    "question_count": 30,
+    "question_count": 2,
     "questionsUrl": "https://raw.githubusercontent.com/Divine10-79/cbt-exams/main/pharm-mock-3/questions.json"
   },
   {
@@ -24,6 +24,6 @@
     "date": "2026-07-02",
     "duration_minutes": 45,
     "question_count": 50,
-    "questionsUrl": "https://raw.githubusercontent.com/Divine10-79/cbt-exams/main/math-102/question.json"
+    "questionsUrl": "https://raw.githubusercontent.com/Divine10-79/cbt-exams/main/math-102/questions.json"
   }
 ]
