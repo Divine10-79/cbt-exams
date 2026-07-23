@@ -1,0 +1,223 @@
+{
+"id":"sta112-mega-mock",
+"title":"STA 112 Mega Mock",
+"courseCode":"STA112",
+"duration_minutes":25,
+"questions":[
+{
+"id":"q1",
+"text":"If U={1,2,3,4,5,6,7,8,9}, A={2,4,6,8} and B={1,2,3,4,5}, find A∪B.",
+"options":[
+"{1,2,3,4,5,6,8}",
+"{2,4}",
+"{1,2,3,4,5}",
+"{1,2,3,4,5,6,7,8,9}"
+],
+"answer":0,
+"explanation":"Union contains every element belonging to A or B."
+},
+{
+"id":"q2",
+"text":"If n(A)=18, n(B)=20, n(A∩B)=6 and n(U)=40, how many elements are outside A∪B?",
+"options":["6","8","10","12"],
+"answer":1,
+"explanation":"n(A∪B)=18+20−6=32. Outside =40−32=8."
+},
+{
+"id":"q3",
+"text":"Which of the following is equivalent to (A∪B)' ?",
+"options":[
+"A'∪B'",
+"A'∩B'",
+"A∩B",
+"A∪B'"
+],
+"answer":1,
+"explanation":"By De Morgan's Law, (A∪B)'=A'∩B'."
+},
+{
+"id":"q4",
+"text":"Evaluate Σ(i²) for i=1 to 5.",
+"options":["45","50","55","60"],
+"answer":2,
+"explanation":"1²+2²+3²+4²+5²=55."
+},
+{
+"id":"q5",
+"text":"If Σx=96 and n=12, find the arithmetic mean.",
+"options":["7","8","9","10"],
+"answer":1,
+"explanation":"Mean=Σx/n=96/12=8."
+},
+{
+"id":"q6",
+"text":"If Σx=45, Σx²=255 and n=9, find E(X²).",
+"options":["25","28.33","30","35"],
+"answer":1,
+"explanation":"E(X²)=Σx²/n=255/9=28.33."
+},
+{
+"id":"q7",
+"text":"How many ways can a captain and vice-captain be selected from 8 players?",
+"options":["28","56","64","16"],
+"answer":1,
+"explanation":"Order matters, so use 8P2=56."
+},
+{
+"id":"q8",
+"text":"How many different committees of 4 can be formed from 9 people?",
+"options":["84","126","72","3024"],
+"answer":1,
+"explanation":"Use combinations: 9C4=126."
+},
+{
+"id":"q9",
+"text":"If P(A)=0.7, find P(A').",
+"options":["0.7","0.3","0.4","1.7"],
+"answer":1,
+"explanation":"Complement =1−0.7."
+},
+{
+"id":"q10",
+"text":"If P(A)=0.5, P(B)=0.4 and P(A∩B)=0.2, find P(A|B).",
+"options":["0.4","0.5","0.6","0.8"],
+"answer":1,
+"explanation":"P(A|B)=P(A∩B)/P(B)=0.2/0.4=0.5."
+},
+{
+"id":"q11",
+"text":"Two events A and B satisfy P(A)=0.35, P(B)=0.45 and P(A∩B)=0. Which statement is TRUE?",
+"options":[
+"They are independent.",
+"They are mutually exclusive.",
+"They are exhaustive.",
+"They are complements."
+],
+"answer":1,
+"explanation":"Zero intersection means mutually exclusive."
+},
+{
+"id":"q12",
+"text":"Which of the following is NOT a valid probability distribution?",
+"options":[
+"{0.2,0.3,0.5}",
+"{0.1,0.2,0.6}",
+"{0.4,0.4,0.4}",
+"{0.25,0.25,0.50}"
+],
+"answer":2,
+"explanation":"Probabilities must sum to 1. Here they sum to 1.2."
+},
+{
+"id":"q13",
+"text":"A fair die is rolled once. Let X be the number obtained. Find Var(X).",
+"options":["35/12","91/6","17/6","35/6"],
+"answer":0,
+"explanation":"E(X)=3.5, E(X²)=91/6, so Var(X)=91/6−(3.5)²=35/12."
+},
+{
+"id":"q14",
+"text":"If Σx=84, Σx²=630 and n=12, find E(X).",
+"options":["6","7","8","9"],
+"answer":1,
+"explanation":"E(X)=Σx/n=84/12=7."
+},
+{
+"id":"q15",
+"text":"If Σx=84, Σx²=630 and n=12, find E(X²).",
+"options":["52.5","49","56","60"],
+"answer":0,
+"explanation":"E(X²)=Σx²/n=630/12=52.5."
+},
+{
+"id":"q16",
+"text":"Using the information in Questions 14 and 15, find Var(X).",
+"options":["3.5","4.5","5.5","6.5"],
+"answer":0,
+"explanation":"Var(X)=E(X²)-[E(X)]²=52.5−49=3.5."
+},
+{
+"id":"q17",
+"text":"A box contains 6 white balls and 4 black balls. Two balls are drawn without replacement. What is the probability that both are white?",
+"options":["1/3","5/15","1/6","15/45"],
+"answer":0,
+"explanation":"(6/10)×(5/9)=30/90=1/3."
+},
+{
+"id":"q18",
+"text":"If P(A)=0.6, P(B)=0.5 and P(A∩B)=0.3, find P(A∪B).",
+"options":["0.8","0.9","1.1","0.7"],
+"answer":0,
+"explanation":"P(A∪B)=0.6+0.5−0.3=0.8."
+},
+{
+"id":"q19",
+"text":"A committee of 2 men and 1 woman is to be formed from 5 men and 4 women. How many different committees are possible?",
+"options":["40","50","60","80"],
+"answer":0,
+"explanation":"5C2 × 4C1 = 10 × 4 = 40. (Note: Correct option should be 40.)"
+},
+{
+"id":"q20",
+"text":"If X~Bin(6,0.5), find P(X=0).",
+"options":[
+"1/64",
+"6/64",
+"15/64",
+"20/64"
+],
+"answer":0,
+"explanation":"P(X=0)=(0.5)^6=1/64."
+},
+{
+"id":"q21",
+"text":"If X~Bin(5,0.2), what is the probability of getting at least one success?",
+"options":[
+"1−(0.8)^5",
+"(0.2)^5",
+"5(0.2)(0.8)^4",
+"(0.8)^5"
+],
+"answer":0,
+"explanation":"P(X≥1)=1−P(X=0)=1−(0.8)^5."
+},
+{
+"id":"q22",
+"text":"A machine has a probability 0.15 of producing a defective item. Find the probability that the first defective item occurs after the third inspection.",
+"options":[
+"(0.85)^3",
+"(0.85)^2(0.15)",
+"1−(0.85)^3",
+"(0.15)^3"
+],
+"answer":0,
+"explanation":"'After the third inspection' means the first three are non-defective."
+},
+{
+"id":"q23",
+"text":"If X~Poisson(3), what is Var(X)?",
+"options":["3","6","9","√3"],
+"answer":0,
+"explanation":"For a Poisson distribution, variance equals λ."
+},
+{
+"id":"q24",
+"text":"Which of the following statements is FALSE?",
+"options":[
+"Independent events may occur together.",
+"Mutually exclusive events cannot occur together.",
+"Every mutually exclusive pair of events is independent.",
+"P(S)=1."
+],
+"answer":2,
+"explanation":"Mutually exclusive events are generally not independent unless one has probability zero."
+},
+{
+"id":"q25",
+"text":"Which probability distribution is most appropriate for modelling the number of customers entering a bank in 10 minutes?",
+"options":["Poisson","Geometric","Binomial","Uniform"],
+"answer":0,
+"explanation":"Poisson distribution models the number of events occurring in a fixed interval."
+}
+]
+}
