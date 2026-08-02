@@ -1,0 +1,308 @@
+{
+  "id": "phy104-shm-master-cbt",
+  "title": "PHY 104 - Simple Harmonic Motion Master CBT",
+  "courseCode": "PHY 104",
+  "duration_minutes": 20,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "A particle executes SHM according to $x = 0.12\\cos(10t+\\pi/6)$. Determine its maximum speed.",
+      "options": [
+        "0.60 m/s",
+        "1.00 m/s",
+        "1.20 m/s",
+        "2.40 m/s"
+      ],
+      "answer": 2,
+      "explanation": "Maximum speed in SHM is v_max = Aω = 0.12 × 10 = 1.20 m/s."
+    },
+    {
+      "id": "q2",
+      "text": "A body of mass 0.50 kg is attached to a spring of force constant 125 N/m. Determine its frequency.",
+      "options": [
+        "2.52 Hz",
+        "1.26 Hz",
+        "5.03 Hz",
+        "3.18 Hz"
+      ],
+      "answer": 0,
+      "explanation": "ω = √(k/m) = √(125/0.5) = 15.81 rad/s. f = ω/(2π) ≈ 2.52 Hz."
+    },
+    {
+      "id": "q3",
+      "text": "A particle performs SHM with amplitude 0.20 m and frequency 2 Hz. Find its maximum acceleration.",
+      "options": [
+        "25.3 m/s²",
+        "31.6 m/s²",
+        "15.8 m/s²",
+        "40.0 m/s²"
+      ],
+      "answer": 1,
+      "explanation": "a_max = Aω² where ω = 2πf = 4π rad/s. Therefore a_max = 0.20(4π)² ≈ 31.6 m/s²."
+    },
+    {
+      "id": "q4",
+      "text": "The total mechanical energy of an oscillator is 25 J. If its kinetic energy at an instant is 9 J, determine its potential energy.",
+      "options": [
+        "9 J",
+        "16 J",
+        "25 J",
+        "34 J"
+      ],
+      "answer": 1,
+      "explanation": "Total energy = KE + PE. Hence PE = 25 − 9 = 16 J."
+    },
+    {
+      "id": "q5",
+      "text": "A particle executes SHM with amplitude 10 cm. At what displacement are the kinetic and potential energies equal?",
+      "options": [
+        "10 cm",
+        "5 cm",
+        "7.07 cm",
+        "2.50 cm"
+      ],
+      "answer": 2,
+      "explanation": "KE = PE when x = A/√2 = 10/√2 = 7.07 cm."
+    },
+    {
+      "id": "q6",
+      "text": "A spring extends 4 cm when a mass of 4 kg is suspended from it. Determine the spring constant.",
+      "options": [
+        "1960 N/m",
+        "980 N/m",
+        "490 N/m",
+        "98 N/m"
+      ],
+      "answer": 1,
+      "explanation": "At equilibrium, mg = kx. Thus k = (4 × 9.8)/0.04 = 980 N/m."
+    },
+    {
+      "id": "q7",
+      "text": "A particle executes SHM with amplitude 0.15 m. Its maximum speed is 3.0 m/s. Determine its angular frequency.",
+      "options": [
+        "10 rad/s",
+        "25 rad/s",
+        "15 rad/s",
+        "20 rad/s"
+      ],
+      "answer": 3,
+      "explanation": "v_max = Aω. Hence ω = 3.0/0.15 = 20 rad/s."
+    },
+    {
+      "id": "q8",
+      "text": "The displacement of a particle is given by $x = 0.10\\cos(8t)$. Find the magnitude of its velocity when its displacement is 6 cm.",
+      "options": [
+        "0.64 m/s",
+        "0.48 m/s",
+        "0.80 m/s",
+        "0.32 m/s"
+      ],
+      "answer": 0,
+      "explanation": "v = ω√(A² − x²) = 8√(0.10² − 0.06²) = 0.64 m/s."
+    },
+    {
+      "id": "q9",
+      "text": "A particle has amplitude 8 cm. What fraction of its total energy is kinetic when its displacement is 4 cm?",
+      "options": [
+        "1/2",
+        "3/4",
+        "1/4",
+        "7/8"
+      ],
+      "answer": 1,
+      "explanation": "KE/E = 1 − (x²/A²) = 1 − (4²/8²) = 1 − 1/4 = 3/4."
+    },
+    {
+      "id": "q10",
+      "text": "A body oscillates with a period of 0.50 s. Determine its angular frequency.",
+      "options": [
+        "2π rad/s",
+        "8π rad/s",
+        "4π rad/s",
+        "16π rad/s"
+      ],
+      "answer": 2,
+      "explanation": "ω = 2π/T = 2π/0.50 = 4π rad/s."
+    },
+    {
+  "id": "q11",
+  "text": "A particle executes SHM with amplitude 0.25 m and angular frequency 6 rad/s. Determine its speed when its displacement is 0.15 m.",
+  "options": [
+    "0.90 m/s",
+    "1.20 m/s",
+    "1.44 m/s",
+    "1.80 m/s"
+  ],
+  "answer": 1,
+  "explanation": "v = ω√(A² − x²) = 6√(0.25² − 0.15²) = 6 × 0.20 = 1.20 m/s."
+},
+    {
+      "id": "q12",
+      "text": "A simple pendulum has a period of 2.0 s. Determine its length. (Take g = 9.8 m/s².)",
+      "options": [
+        "0.99 m",
+        "1.49 m",
+        "0.49 m",
+        "2.00 m"
+      ],
+      "answer": 0,
+      "explanation": "T = 2π√(L/g). Therefore L = g(T/2π)² ≈ 0.99 m."
+    },
+    {
+      "id": "q13",
+      "text": "A 0.40 kg mass attached to a spring oscillates with amplitude 0.10 m and angular frequency 10 rad/s. Calculate the total mechanical energy.",
+      "options": [
+        "0.10 J",
+        "0.20 J",
+        "0.40 J",
+        "0.80 J"
+      ],
+      "answer": 1,
+      "explanation": "E = ½mω²A² = ½ × 0.40 × 10² × 0.10² = 0.20 J."
+    },
+    {
+      "id": "q14",
+      "text": "A particle executes SHM with amplitude 12 cm. At what displacement is its kinetic energy equal to three times its potential energy?",
+      "options": [
+        "6.0 cm",
+        "10.4 cm",
+        "8.5 cm",
+        "3.5 cm"
+      ],
+      "answer": 0,
+      "explanation": "KE = 3PE ⇒ A² − x² = 3x² ⇒ A² = 4x² ⇒ x = A/2 = 6 cm."
+    },
+    {
+      "id": "q15",
+      "text": "The motion of a particle is given by $x = 0.08\\sin(25t)$. Determine the maximum acceleration.",
+      "options": [
+        "40 m/s²",
+        "50 m/s²",
+        "62.5 m/s²",
+        "75 m/s²"
+      ],
+      "answer": 1,
+      "explanation": "a_max = Aω² = 0.08 × 25² = 50 m/s²."
+    },
+{
+  "id":"q16",
+  "text":"A particle executes SHM with amplitude 0.20 m. Determine the ratio of kinetic energy to potential energy when its displacement is 0.10 m.",
+  "options":[
+    "1 : 3",
+    "3 : 1",
+    "1 : 1",
+    "3 : 5"
+  ],
+  "answer":1,
+  "explanation":"KE:PE=(A²−x²):x²=(0.20²−0.10²):0.10²=0.03:0.01=3:1."
+},
+{
+  "id":"q17",
+  "text":"A 0.80 kg mass is suspended vertically from a spring of stiffness 320 N/m. Calculate the period of small oscillations.",
+  "options":[
+    "0.157 s",
+    "0.314 s",
+    "0.628 s",
+    "1.257 s"
+  ],
+  "answer":1,
+  "explanation":"T=2π√(m/k)=2π√(0.80/320)=0.314 s."
+},
+{
+  "id":"q18",
+  "text":"A damped oscillator has an initial amplitude of 20 cm. After several oscillations its amplitude becomes 5 cm. Which statement is correct?",
+  "options":[
+    "Its frequency has quadrupled.",
+    "Mechanical energy has been dissipated.",
+    "The spring constant has increased.",
+    "The oscillator is now in resonance."
+  ],
+  "answer":1,
+  "explanation":"Damping reduces the mechanical energy through frictional or resistive forces."
+},
+{
+  "id":"q19",
+  "text":"In forced oscillation, the amplitude becomes maximum when",
+  "options":[
+    "the damping force is zero.",
+    "the driving frequency equals the natural frequency.",
+    "the natural frequency becomes zero.",
+    "the oscillator reaches equilibrium."
+  ],
+  "answer":1,
+  "explanation":"Maximum amplitude occurs at resonance when the driving frequency equals the natural frequency."
+},
+{
+  "id":"q20",
+  "text":"Two identical pendulums are connected by a light spring. Energy is transferred periodically from one pendulum to the other. This phenomenon is known as",
+  "options":[
+    "simple harmonic motion.",
+    "forced oscillation.",
+    "coupled oscillation.",
+    "critical damping."
+  ],
+  "answer":2,
+  "explanation":"Coupled oscillators exchange energy periodically due to the weak connection between them."
+},
+{
+  "id":"q21",
+  "text":"A particle executes SHM according to $x=0.08\\cos(20t+\\pi/3)$. Determine the magnitude of its velocity when its displacement is 4 cm.",
+  "options":[
+    "0.80 m/s",
+    "1.39 m/s",
+    "1.60 m/s",
+    "2.77 m/s"
+  ],
+  "answer":3,
+  "explanation":"v=ω√(A²−x²)=20√(0.08²−0.04²)=20√0.0048≈1.39 m/s."
+},
+{
+  "id":"q22",
+  "text":"A mass of 0.20 kg oscillates with frequency 5 Hz. Determine the spring constant.",
+  "options":[
+    "98.7 N/m",
+    "197 N/m",
+    "394.8 N/m",
+    "592 N/m"
+  ],
+  "answer":1,
+  "explanation":"k=m(2πf)²=0.20(10π)²≈197 N/m."
+},
+{
+  "id":"q23",
+  "text":"A particle has amplitude 0.30 m. When its displacement is 0.18 m, what percentage of its total mechanical energy is kinetic?",
+  "options":[
+    "64%",
+    "36%",
+    "60%",
+    "72%"
+  ],
+  "answer":0,
+  "explanation":"KE/E=1−x²/A²=1−(0.18²/0.30²)=1−0.36=0.64=64%."
+},
+{
+  "id":"q24",
+  "text":"A 0.40 kg mass executes SHM with amplitude 0.12 m and angular frequency 25 rad/s. Determine its maximum kinetic energy.",
+  "options":[
+    "0.90 J",
+    "1.80 J",
+    "2.25 J",
+    "3.60 J"
+  ],
+  "answer":1,
+  "explanation":"KE_max=½mω²A²=½×0.40×25²×0.12²=1.80 J."
+},
+{
+  "id":"q25",
+  "text":"A 2 kg block attached to a spring of stiffness 200 N/m oscillates with amplitude 0.15 m. Determine its speed when it is 0.09 m from equilibrium.",
+  "options":[
+    "0.60 m/s",
+    "1.20 m/s",
+    "0.90 m/s",
+    "1.80 m/s"
+  ],
+  "answer":1,
+  "explanation":"ω=√(k/m)=10 rad/s. v=ω√(A²−x²)=10√(0.15²−0.09²)=1.20 m/s."
+}
+  ]
+}
