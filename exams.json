@@ -56,13 +56,12 @@
 "https://raw.githubusercontent.com/Divine10-79/cbt-exams/refs/heads/main/STA%20112%20MEGA-MOCK/questions.json"
   },
   {
- "id": "phy104-shm-master-cbt",
- "title": "PHY 104 - Simple Harmonic Motion Master CBT"",
- "courseCode": "PHY 104",
- "date": "2026-08-02",
- "duration_minutes": 20,
- "question_count": 25,
- "questionsUrl":
-"https://raw.githubusercontent.com/Divine10-79/cbt-exams/refs/heads/main/PHY%20104%20SHM/questions.json"
-  }
+  "id": "phy104-shm-master-cbt",
+  "title": "PHY 104 - Simple Harmonic Motion Master CBT",
+  "courseCode": "PHY 104",
+  "date": "2026-08-02",
+  "duration_minutes": 20,
+  "question_count": 25,
+  "questionsUrl": "https://raw.githubusercontent.com/Divine10-79/cbt-exams/main/PHY%20104%20SHM/questions.json"
+}
 ]
