@@ -65,15 +65,14 @@
   "questionsUrl": "https://raw.githubusercontent.com/Divine10-79/cbt-exams/main/PHY%20104%20SHM/questions.json"
 },
   {
- "id": "phy102_mock_001",
- "title": "PHY 102 Mock Examination",
- "courseCode": "PHY 102",
- "date": "2026-08-07",
- "duration_minutes": 35,
- "question_count": 40,
- "questionsUrl",
-  "https://raw.githubusercontent.com/Divine10-79/cbt-exams/refs/heads/main/PHY%20102/questions.json"
-  },
+  "id": "phy102-em-mock",
+  "title": "PHY 102 Electromagnetism Mock CBT",
+  "courseCode": "PHY102",
+  "date": "2026-08-06",
+  "duration_minutes": 40,
+  "question_count": 40,
+  "questionsUrl": "https://raw.githubusercontent.com/Divine10-79/cbt-exams/main/phy102-em-mock/questions.json"
+},
   {
  "id": "phy104-shm-waves",
  "title": "PHY 104 SHM and Waves Mock Examination",
