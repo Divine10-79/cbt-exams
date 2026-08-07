@@ -1,482 +1,488 @@
-[
-  {
-    "id": 1,
-    "question": "A point charge of \\(8\\,\\mu C\\) is placed in air. Calculate the magnitude of the electric field at a point \\(0.30\\,m\\) away from the charge. \\((k=9\\times10^9\\,Nm^2/C^2)\\)",
-    "options": [
-      "\\(8.0\\times10^5\\,N/C\\)",
-      "\\(4.0\\times10^5\\,N/C\\)",
-      "\\(6.0\\times10^5\\,N/C\\)",
-      "\\(2.0\\times10^5\\,N/C\\)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Use \\(E=\\dfrac{kq}{r^2}\\)."
-  },
-  {
-    "id": 2,
-    "question": "Two identical charges are separated by a distance \\(r\\). If each charge is doubled while the separation becomes \\(2r\\), the electrostatic force becomes:",
-    "options": [
-      "Twice the original value",
-      "Half the original value",
-      "Four times the original value",
-      "Unchanged"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Using Coulomb's law, \\(F' = \\dfrac{k(2q)(2q)}{(2r)^2}=F\\)."
-  },
-  {
-    "id": 3,
-    "question": "A Gaussian surface encloses a net charge of \\(5\\times10^{-6}\\,C\\). The total electric flux through the surface is closest to:",
-    "options": [
-      "\\(5.65\\times10^5\\,Nm^2/C\\)",
-      "\\(4.50\\times10^5\\,Nm^2/C\\)",
-      "\\(3.75\\times10^5\\,Nm^2/C\\)",
-      "\\(6.25\\times10^5\\,Nm^2/C\\)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Apply Gauss' law, \\(\\Phi=Q/\\varepsilon_0\\)."
-  },
-  {
-    "id": 4,
-    "question": "A parallel-plate capacitor has plate area \\(0.02\\,m^2\\) and plate separation \\(2\\times10^{-3}\\,m\\). Neglecting edge effects, its capacitance is approximately:",
-    "options": [
-      "\\(88.5\\,pF\\)",
-      "\\(44.3\\,pF\\)",
-      "\\(177\\,pF\\)",
-      "\\(8.85\\,nF\\)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Use \\(C=\\varepsilon_0A/d\\)."
-  },
-  {
-    "id": 5,
-    "question": "The dielectric constant of a material inserted completely between the plates of an isolated capacitor is 4. Which statement is correct?",
-    "options": [
-      "Capacitance becomes four times while charge remains constant.",
-      "Charge becomes four times while capacitance remains constant.",
-      "Potential difference increases fourfold.",
-      "Electric field becomes four times larger."
-    ],
-    "correctAnswer": 0,
-    "explanation": "For an isolated capacitor, charge remains constant while capacitance increases."
-  },
-  {
-    "id": 6,
-    "question": "Three resistors of \\(2\\Omega\\), \\(3\\Omega\\) and \\(6\\Omega\\) are connected in parallel. Their equivalent resistance is:",
-    "options": [
-      "\\(1\\Omega\\)",
-      "\\(2\\Omega\\)",
-      "\\(3\\Omega\\)",
-      "\\(11\\Omega\\)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Use \\(\\frac1R=\\frac12+\\frac13+\\frac16=1\\)."
-  },
-  {
-    "id": 7,
-    "question": "A battery of emf \\(18V\\) and internal resistance \\(1\\Omega\\) supplies current to an external resistor of \\(5\\Omega\\). The terminal voltage is:",
-    "options": [
-      "\\(15V\\)",
-      "\\(18V\\)",
-      "\\(12V\\)",
-      "\\(16V\\)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Current \\(I=18/(5+1)=3A\\). Terminal voltage \\(=18-3(1)=15V\\)."
-  },
-  {
-    "id": 8,
-    "question": "The resistance of a metallic conductor increases mainly because:",
-    "options": [
-      "Electron collisions with vibrating lattice ions increase.",
-      "The number of free electrons decreases to zero.",
-      "The wire becomes shorter.",
-      "Current destroys the crystal lattice."
-    ],
-    "correctAnswer": 0,
-    "explanation": "Temperature increases lattice vibration, increasing resistivity."
-  },
-  {
-    "id": 9,
-    "question": "A long straight conductor carries a current of \\(10A\\). The magnetic field at a distance of \\(5cm\\) from the conductor is approximately:",
-    "options": [
-      "\\(4.0\\times10^{-5}\\,T\\)",
-      "\\(8.0\\times10^{-5}\\,T\\)",
-      "\\(2.0\\times10^{-5}\\,T\\)",
-      "\\(1.0\\times10^{-5}\\,T\\)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Use \\(B=\\dfrac{\\mu_0I}{2\\pi r}\\)."
-  },
-  {
-    "id": 10,
-    "question": "A proton enters a uniform magnetic field perpendicular to the field direction. Which quantity remains unchanged throughout the motion?",
-    "options": [
-      "Its speed",
-      "Its velocity",
-      "Its momentum vector",
-      "Its direction of motion"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The magnetic force changes only the direction of velocity, not its magnitude."
-  },
-  {
-  "id": 11,
-  "question": "A circular coil of 200 turns experiences a change in magnetic flux from \\(0.08\\,Wb\\) to \\(0.02\\,Wb\\) in \\(0.40\\,s\\). The average induced emf is:",
-  "options": [
-    "\\(20\\,V\\)",
-    "\\(30\\,V\\)",
-    "\\(40\\,V\\)",
-    "\\(50\\,V\\)"
-  ],
-  "correctAnswer": 1,
-  "explanation": "Using \\(\\varepsilon=N\\frac{\\Delta\\Phi}{\\Delta t}=200\\times\\frac{0.06}{0.40}=30V\\)."
-},
 {
-  "id": 12,
-  "question": "According to Lenz's law, the induced current in a closed circuit always flows in a direction that:",
-  "options": [
-    "Produces the maximum current.",
-    "Opposes the change in magnetic flux producing it.",
-    "Is perpendicular to the magnetic field.",
-    "Is always clockwise."
-  ],
-  "correctAnswer": 1,
-  "explanation": "Lenz's law is a consequence of conservation of energy."
-},
-{
-  "id": 13,
-  "question": "A transformer has 500 turns on the primary and 100 turns on the secondary. If the primary voltage is \\(240\\,V\\), the secondary voltage is:",
-  "options": [
-    "\\(24\\,V\\)",
-    "\\(48\\,V\\)",
-    "\\(60\\,V\\)",
-    "\\(120\\,V\\)"
-  ],
-  "correctAnswer": 1,
-  "explanation": "Use \\(\\frac{V_s}{V_p}=\\frac{N_s}{N_p}=\\frac{100}{500}=0.2\\)."
-},
-{
-  "id": 14,
-  "question": "A step-up transformer is connected to a 120 V AC source. If the turns ratio \\(N_s:N_p=5:2\\), the ideal secondary voltage is:",
-  "options": [
-    "\\(200\\,V\\)",
-    "\\(250\\,V\\)",
-    "\\(300\\,V\\)",
-    "\\(360\\,V\\)"
-  ],
-  "correctAnswer": 2,
-  "explanation": "\\(V_s=120\\times\\frac{5}{2}=300V\\)."
-},
-{
-  "id": 15,
-  "question": "The self-inductance of a coil depends primarily on:",
-  "options": [
-    "Its resistance only.",
-    "Its geometry and magnetic core material.",
-    "The applied voltage only.",
-    "The current flowing through it only."
-  ],
-  "correctAnswer": 1,
-  "explanation": "Self-inductance depends on dimensions, number of turns and permeability."
-},
-{
-  "id": 16,
-  "question": "Which of the following is correctly matched with Maxwell's equations?",
-  "options": [
-    "Gauss' law for magnetism states that isolated magnetic monopoles exist.",
-    "Ampère-Maxwell law introduces displacement current.",
-    "Faraday's law describes Coulomb's force.",
-    "Gauss' law states magnetic flux through a closed surface equals enclosed charge."
-  ],
-  "correctAnswer": 1,
-  "explanation": "Maxwell corrected Ampère's law by introducing displacement current."
-},
-{
-  "id": 17,
-  "question": "The main significance of Maxwell's displacement current is that it:",
-  "options": [
-    "Explains why resistors heat up.",
-    "Allows Ampère's law to remain valid even where no conduction current exists.",
-    "Reduces magnetic field strength.",
-    "Increases the resistance of capacitors."
-  ],
-  "correctAnswer": 1,
-  "explanation": "Displacement current exists in the dielectric of a charging capacitor."
-},
-{
-  "id": 18,
-  "question": "Electromagnetic waves can travel through:",
-  "options": [
-    "Only conducting media.",
-    "Only air.",
-    "Vacuum as well as material media.",
-    "Only dielectric materials."
-  ],
-  "correctAnswer": 2,
-  "explanation": "Unlike mechanical waves, electromagnetic waves do not require a material medium."
-},
-{
-  "id": 19,
-  "question": "The speed of electromagnetic waves in vacuum is approximately:",
-  "options": [
-    "\\(3.0\\times10^6\\,m/s\\)",
-    "\\(3.0\\times10^7\\,m/s\\)",
-    "\\(3.0\\times10^8\\,m/s\\)",
-    "\\(3.0\\times10^9\\,m/s\\)"
-  ],
-  "correctAnswer": 2,
-  "explanation": "The speed of light in vacuum is \\(3.0\\times10^8\\,m/s\\)."
-},
-{
-  "id": 20,
-  "question": "Which statement best explains why changing electric fields can produce magnetic fields?",
-  "options": [
-    "It is predicted by Coulomb's law.",
-    "It follows from Maxwell's addition to Ampère's law.",
-    "It is a consequence of Ohm's law.",
-    "It follows directly from Biot-Savart law."
-  ],
-  "correctAnswer": 1,
-  "explanation": "Maxwell introduced displacement current, showing that time-varying electric fields generate magnetic fields."
-},
-{
-  "id": 21,
-  "question": "A sinusoidal voltage has a peak value of \\(311\\,V\\). Its rms value is:",
-  "options": [
-    "\\(110\\,V\\)",
-    "\\(220\\,V\\)",
-    "\\(311\\,V\\)",
-    "\\(155.5\\,V\\)"
-  ],
-  "correctAnswer": 1,
-  "explanation": "For a sinusoidal voltage, \\(V_{rms}=\\frac{V_0}{\\sqrt{2}}=\\frac{311}{1.414}\\approx220\\,V\\)."
-},
-{
-  "id": 22,
-  "question": "A pure inductor of inductance \\(0.20\\,H\\) is connected to a \\(50\\,Hz\\) AC supply. Its inductive reactance is approximately:",
-  "options": [
-    "\\(31.4\\,\\Omega\\)",
-    "\\(62.8\\,\\Omega\\)",
-    "\\(94.2\\,\\Omega\\)",
-    "\\(125.7\\,\\Omega\\)"
-  ],
-  "correctAnswer": 1,
-  "explanation": "Use \\(X_L=2\\pi fL=2\\pi(50)(0.2)=62.8\\,\\Omega\\)."
-},
-{
-  "id": 23,
-  "question": "A capacitor of capacitance \\(100\\,\\mu F\\) is connected to a \\(50\\,Hz\\) supply. The capacitive reactance is closest to:",
-  "options": [
-    "\\(15.9\\,\\Omega\\)",
-    "\\(31.8\\,\\Omega\\)",
-    "\\(63.7\\,\\Omega\\)",
-    "\\(318\\,\\Omega\\)"
-  ],
-  "correctAnswer": 1,
-  "explanation": "Use \\(X_C=\\frac{1}{2\\pi fC}=\\frac{1}{2\\pi(50)(100\\times10^{-6})}\\approx31.8\\,\\Omega\\)."
-},
-{
-  "id": 24,
-  "question": "A series RL circuit has \\(R=30\\,\\Omega\\) and \\(X_L=40\\,\\Omega\\). The impedance of the circuit is:",
-  "options": [
-    "\\(35\\,\\Omega\\)",
-    "\\(50\\,\\Omega\\)",
-    "\\(70\\,\\Omega\\)",
-    "\\(10\\,\\Omega\\)"
-  ],
-  "correctAnswer": 1,
-  "explanation": "Use \\(Z=\\sqrt{R^2+X_L^2}=\\sqrt{30^2+40^2}=50\\,\\Omega\\)."
-},
-{
-  "id": 25,
-  "question": "A series RLC circuit has resistance \\(R=15\\,\\Omega\\), inductive reactance \\(X_L=20\\,\\Omega\\), and capacitive reactance \\(X_C=5\\,\\Omega\\). The impedance of the circuit is:",
-  "options": [
-    "\\(15\\,\\Omega\\)",
-    "\\(18\\,\\Omega\\)",
-    "\\(21.2\\,\\Omega\\)",
-    "\\(25\\,\\Omega\\)"
-  ],
-  "correctAnswer": 2,
-  "explanation": "Using \\(Z=\\sqrt{R^2+(X_L-X_C)^2}=\\sqrt{15^2+15^2}=\\sqrt{450}=21.2\\,\\Omega\\)."
-},
-{
-  "id": 26,
-  "question": "At resonance in a series RLC circuit:",
-  "options": [
-    "The impedance is maximum.",
-    "The current is minimum.",
-    "The inductive and capacitive reactances are equal.",
-    "The power factor is zero."
-  ],
-  "correctAnswer": 2,
-  "explanation": "At resonance, \\(X_L=X_C\\), impedance is minimum and current is maximum."
-},
-{
-  "id": 27,
-  "question": "The power factor of a purely resistive AC circuit is:",
-  "options": [
-    "0",
-    "0.5",
-    "1",
-    "\\(\\frac{1}{\\sqrt2}\\)"
-  ],
-  "correctAnswer": 2,
-  "explanation": "Voltage and current are in phase in a purely resistive circuit."
-},
-{
-  "id": 28,
-  "question": "Which of the following correctly states Faraday's law of electromagnetic induction?",
-  "options": [
-    "The induced emf is proportional to the magnetic field only.",
-    "The induced emf equals the rate of change of electric field.",
-    "The induced emf is proportional to the rate of change of magnetic flux linkage.",
-    "The induced current is directly proportional to resistance."
-  ],
-  "correctAnswer": 2,
-  "explanation": "Faraday's law states \\(\\varepsilon=-N\\frac{d\\Phi}{dt}\\)."
-},
-{
-  "id": 29,
-  "question": "Which one of Maxwell's equations predicts that magnetic field lines form closed loops?",
-  "options": [
-    "\\(\\nabla\\cdot\\mathbf{E}=\\rho/\\varepsilon_0\\)",
-    "\\(\\nabla\\times\\mathbf{E}=-\\frac{\\partial\\mathbf{B}}{\\partial t}\\)",
-    "\\(\\nabla\\cdot\\mathbf{B}=0\\)",
-    "\\(\\nabla\\times\\mathbf{B}=\\mu_0\\mathbf{J}\\)"
-  ],
-  "correctAnswer": 2,
-  "explanation": "Gauss' law for magnetism states that the net magnetic flux through any closed surface is zero."
-},
-{
-  "id": 30,
-  "question": "A student claims that Maxwell's greatest contribution to electromagnetism was proving that changing magnetic fields produce electric fields. Which statement is MOST accurate?",
-  "options": [
-    "The statement is completely correct.",
-    "The statement is false because Faraday discovered that relationship.",
-    "Maxwell's major contribution was introducing displacement current, completing the symmetry of electromagnetism.",
-    "Maxwell discovered Coulomb's law."
-  ],
-  "correctAnswer": 2,
-  "explanation": "Faraday established electromagnetic induction experimentally. Maxwell introduced displacement current, completing the set of equations and predicting electromagnetic waves."
-},
-{
-  "id": 31,
-  "question": "A series RLC circuit has resistance \\(R=30\\,\\Omega\\), inductive reactance \\(X_L=40\\,\\Omega\\), and capacitive reactance \\(X_C=10\\,\\Omega\\). The impedance of the circuit is:",
-  "options": [
-    "\\(30\\,\\Omega\\)",
-    "\\(42.4\\,\\Omega\\)",
-    "\\(50\\,\\Omega\\)",
-    "\\(60\\,\\Omega\\)"
-  ],
-  "correctAnswer": 1,
-  "explanation": "The net reactance is \\(X=X_L-X_C=40-10=30\\,\\Omega\\). Hence, \\(Z=\\sqrt{R^2+X^2}=\\sqrt{30^2+30^2}=\\sqrt{1800}=42.4\\,\\Omega\\)."
-},
-{
-  "id": 32,
-  "question": "An AC source of \\(240\\,V_{rms}\\) supplies a current of \\(8\\,A\\) at a power factor of 0.80. The average power consumed is:",
-  "options": [
-    "\\(960\\,W\\)",
-    "\\(1536\\,W\\)",
-    "\\(1920\\,W\\)",
-    "\\(2400\\,W\\)"
-  ],
-  "correctAnswer": 1,
-  "explanation": "Use \\(P=VI\\cos\\phi=240\\times8\\times0.8=1536\\,W\\)."
-},
-{
-  "id": 33,
-  "question": "A transformer has an efficiency of 95%. If the input power is \\(1000\\,W\\), the output power is:",
-  "options": [
-    "\\(900\\,W\\)",
-    "\\(925\\,W\\)",
-    "\\(950\\,W\\)",
-    "\\(1000\\,W\\)"
-  ],
-  "correctAnswer": 2,
-  "explanation": "Efficiency \\(=\\frac{P_{out}}{P_{in}}\\times100\\%\\). Therefore \\(P_{out}=0.95\\times1000=950\\,W\\)."
-},
-{
-  "id": 34,
-  "question": "Which one of the following is NOT a consequence of Maxwell's electromagnetic theory?",
-  "options": [
-    "Light is an electromagnetic wave.",
-    "Changing electric fields produce magnetic fields.",
-    "Electromagnetic waves can propagate through vacuum.",
-    "The speed of sound in air equals the speed of light in vacuum."
-  ],
-  "correctAnswer": 3,
-  "explanation": "The speed of sound is much smaller than the speed of light."
-},
-{
-  "id": 35,
-  "question": "A conducting rod moves perpendicularly through a uniform magnetic field. The induced emf depends on:",
-  "options": [
-    "The magnetic field only.",
-    "The rod length only.",
-    "The speed of the rod only.",
-    "The magnetic field strength, rod length and speed."
-  ],
-  "correctAnswer": 3,
-  "explanation": "The motional emf is \\(\\varepsilon=Blv\\)."
-},
-{
-  "id": 36,
-  "question": "The primary purpose of laminating the iron core of a transformer is to:",
-  "options": [
-    "Increase magnetic flux.",
-    "Reduce eddy current losses.",
-    "Increase the number of turns.",
-    "Increase the operating frequency."
-  ],
-  "correctAnswer": 1,
-  "explanation": "Thin insulated laminations reduce circulating eddy currents."
-},
-{
-  "id": 37,
-  "question": "The magnetic field inside a long solenoid is directly proportional to:",
-  "options": [
-    "The square of the current.",
-    "The current and the number of turns per unit length.",
-    "The radius of the solenoid only.",
-    "The resistance of the wire."
-  ],
-  "correctAnswer": 1,
-  "explanation": "For a long solenoid, \\(B=\\mu_0nI\\)."
-},
-{
-  "id": 38,
-  "question": "According to Ampère's circuital law, the line integral of the magnetic field around a closed path is proportional to:",
-  "options": [
-    "The enclosed electric charge.",
-    "The enclosed current.",
-    "The electric potential.",
-    "The magnetic flux."
-  ],
-  "correctAnswer": 1,
-  "explanation": "Ampère's law gives \\(\\oint\\mathbf{B}\\cdot d\\mathbf{l}=\\mu_0I_{enc}\\)."
-},
-{
-  "id": 39,
-  "question": "Two identical inductors are connected in series without mutual coupling. If each has an inductance of \\(5\\,H\\), the equivalent inductance is:",
-  "options": [
-    "\\(2.5\\,H\\)",
-    "\\(5\\,H\\)",
-    "\\(7.5\\,H\\)",
-    "\\(10\\,H\\)"
-  ],
-  "correctAnswer": 3,
-  "explanation": "For series inductors with no mutual coupling, inductances add directly."
-},
-{
-  "id": 40,
-  "question": "A student is asked why electromagnetic waves are transverse. Which response is MOST correct?",
-  "options": [
-    "Because the electric field is parallel to the direction of propagation.",
-    "Because the magnetic field is parallel to the electric field.",
-    "Because the electric field, magnetic field and direction of propagation are mutually perpendicular.",
-    "Because electromagnetic waves require a material medium."
-  ],
-  "correctAnswer": 2,
-  "explanation": "In an electromagnetic wave, \\(\\mathbf{E}\\), \\(\\mathbf{B}\\), and the direction of propagation are mutually perpendicular."
-}
+  "id": "phy102-em-mock",
+  "title": "PHY 102 Electromagnetism Mock CBT",
+  "courseCode": "PHY102",
+  "duration_minutes": 40,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "A point charge of $8\\,\\mu C$ is placed in air. Calculate the magnitude of the electric field at a point $0.30\\,m$ away from the charge. $(k=9\\times10^9\\,Nm^2/C^2)$",
+      "options": [
+        "$8.0\\times10^5\\,N/C$",
+        "$4.0\\times10^5\\,N/C$",
+        "$6.0\\times10^5\\,N/C$",
+        "$2.0\\times10^5\\,N/C$"
+      ],
+      "answer": 0,
+      "explanation": "Use $E=\\dfrac{kq}{r^2}$."
+    },
+    {
+      "id": "q2",
+      "text": "Two identical charges are separated by a distance $r$. If each charge is doubled while the separation becomes $2r$, the electrostatic force becomes:",
+      "options": [
+        "Twice the original value",
+        "Half the original value",
+        "Four times the original value",
+        "Unchanged"
+      ],
+      "answer": 3,
+      "explanation": "Using Coulomb's law, $F' = \\dfrac{k(2q)(2q)}{(2r)^2}=F$."
+    },
+    {
+      "id": "q3",
+      "text": "A Gaussian surface encloses a net charge of $5\\times10^{-6}\\,C$. The total electric flux through the surface is closest to:",
+      "options": [
+        "$5.65\\times10^5\\,Nm^2/C$",
+        "$4.50\\times10^5\\,Nm^2/C$",
+        "$3.75\\times10^5\\,Nm^2/C$",
+        "$6.25\\times10^5\\,Nm^2/C$"
+      ],
+      "answer": 0,
+      "explanation": "Apply Gauss' law, $\\Phi=Q/\\varepsilon_0$."
+    },
+    {
+      "id": "q4",
+      "text": "A parallel-plate capacitor has plate area $0.02\\,m^2$ and plate separation $2\\times10^{-3}\\,m$. Neglecting edge effects, its capacitance is approximately:",
+      "options": [
+        "$88.5\\,pF$",
+        "$44.3\\,pF$",
+        "$177\\,pF$",
+        "$8.85\\,nF$"
+      ],
+      "answer": 0,
+      "explanation": "Use $C=\\varepsilon_0A/d$."
+    },
+    {
+      "id": "q5",
+      "text": "The dielectric constant of a material inserted completely between the plates of an isolated capacitor is 4. Which statement is correct?",
+      "options": [
+        "Capacitance becomes four times while charge remains constant.",
+        "Charge becomes four times while capacitance remains constant.",
+        "Potential difference increases fourfold.",
+        "Electric field becomes four times larger."
+      ],
+      "answer": 0,
+      "explanation": "For an isolated capacitor, charge remains constant while capacitance increases."
+    },
+    {
+      "id": "q6",
+      "text": "Three resistors of $2\\Omega$, $3\\Omega$ and $6\\Omega$ are connected in parallel. Their equivalent resistance is:",
+      "options": [
+        "$1\\Omega$",
+        "$2\\Omega$",
+        "$3\\Omega$",
+        "$11\\Omega$"
+      ],
+      "answer": 0,
+      "explanation": "Use $\\frac1R=\\frac12+\\frac13+\\frac16=1$."
+    },
+    {
+      "id": "q7",
+      "text": "A battery of emf $18V$ and internal resistance $1\\Omega$ supplies current to an external resistor of $5\\Omega$. The terminal voltage is:",
+      "options": [
+        "$15V$",
+        "$18V$",
+        "$12V$",
+        "$16V$"
+      ],
+      "answer": 0,
+      "explanation": "Current $I=18/(5+1)=3A$. Terminal voltage $=18-3(1)=15V$."
+    },
+    {
+      "id": "q8",
+      "text": "The resistance of a metallic conductor increases mainly because:",
+      "options": [
+        "Electron collisions with vibrating lattice ions increase.",
+        "The number of free electrons decreases to zero.",
+        "The wire becomes shorter.",
+        "Current destroys the crystal lattice."
+      ],
+      "answer": 0,
+      "explanation": "Temperature increases lattice vibration, increasing resistivity."
+    },
+    {
+      "id": "q9",
+      "text": "A long straight conductor carries a current of $10A$. The magnetic field at a distance of $5cm$ from the conductor is approximately:",
+      "options": [
+        "$4.0\\times10^{-5}\\,T$",
+        "$8.0\\times10^{-5}\\,T$",
+        "$2.0\\times10^{-5}\\,T$",
+        "$1.0\\times10^{-5}\\,T$"
+      ],
+      "answer": 0,
+      "explanation": "Use $B=\\dfrac{\\mu_0I}{2\\pi r}$."
+    },
+    {
+      "id": "q10",
+      "text": "A proton enters a uniform magnetic field perpendicular to the field direction. Which quantity remains unchanged throughout the motion?",
+      "options": [
+        "Its speed",
+        "Its velocity",
+        "Its momentum vector",
+        "Its direction of motion"
+      ],
+      "answer": 0,
+      "explanation": "The magnetic force changes only the direction of velocity, not its magnitude."
+    },
+    {
+      "id": "q11",
+      "text": "A circular coil of 200 turns experiences a change in magnetic flux from $0.08\\,Wb$ to $0.02\\,Wb$ in $0.40\\,s$. The average induced emf is:",
+      "options": [
+        "$20\\,V$",
+        "$30\\,V$",
+        "$40\\,V$",
+        "$50\\,V$"
+      ],
+      "answer": 1,
+      "explanation": "Using $\\varepsilon=N\\frac{\\Delta\\Phi}{\\Delta t}=200\\times\\frac{0.06}{0.40}=30V$."
+    },
+    {
+      "id": "q12",
+      "text": "According to Lenz's law, the induced current in a closed circuit always flows in a direction that:",
+      "options": [
+        "Produces the maximum current.",
+        "Opposes the change in magnetic flux producing it.",
+        "Is perpendicular to the magnetic field.",
+        "Is always clockwise."
+      ],
+      "answer": 1,
+      "explanation": "Lenz's law is a consequence of conservation of energy."
+    },
+    {
+      "id": "q13",
+      "text": "A transformer has 500 turns on the primary and 100 turns on the secondary. If the primary voltage is $240\\,V$, the secondary voltage is:",
+      "options": [
+        "$24\\,V$",
+        "$48\\,V$",
+        "$60\\,V$",
+        "$120\\,V$"
+      ],
+      "answer": 1,
+      "explanation": "Use $\\frac{V_s}{V_p}=\\frac{N_s}{N_p}=\\frac{100}{500}=0.2$."
+    },
+    {
+      "id": "q14",
+      "text": "A step-up transformer is connected to a 120 V AC source. If the turns ratio $N_s:N_p=5:2$, the ideal secondary voltage is:",
+      "options": [
+        "$200\\,V$",
+        "$250\\,V$",
+        "$300\\,V$",
+        "$360\\,V$"
+      ],
+      "answer": 2,
+      "explanation": "$V_s=120\\times\\frac{5}{2}=300V$."
+    },
+    {
+      "id": "q15",
+      "text": "The self-inductance of a coil depends primarily on:",
+      "options": [
+        "Its resistance only.",
+        "Its geometry and magnetic core material.",
+        "The applied voltage only.",
+        "The current flowing through it only."
+      ],
+      "answer": 1,
+      "explanation": "Self-inductance depends on dimensions, number of turns and permeability."
+    },
+    {
+      "id": "q16",
+      "text": "Which of the following is correctly matched with Maxwell's equations?",
+      "options": [
+        "Gauss' law for magnetism states that isolated magnetic monopoles exist.",
+        "Ampère-Maxwell law introduces displacement current.",
+        "Faraday's law describes Coulomb's force.",
+        "Gauss' law states magnetic flux through a closed surface equals enclosed charge."
+      ],
+      "answer": 1,
+      "explanation": "Maxwell corrected Ampère's law by introducing displacement current."
+    },
+    {
+      "id": "q17",
+      "text": "The main significance of Maxwell's displacement current is that it:",
+      "options": [
+        "Explains why resistors heat up.",
+        "Allows Ampère's law to remain valid even where no conduction current exists.",
+        "Reduces magnetic field strength.",
+        "Increases the resistance of capacitors."
+      ],
+      "answer": 1,
+      "explanation": "Displacement current exists in the dielectric of a charging capacitor."
+    },
+    {
+      "id": "q18",
+      "text": "Electromagnetic waves can travel through:",
+      "options": [
+        "Only conducting media.",
+        "Only air.",
+        "Vacuum as well as material media.",
+        "Only dielectric materials."
+      ],
+      "answer": 2,
+      "explanation": "Unlike mechanical waves, electromagnetic waves do not require a material medium."
+    },
+    {
+      "id": "q19",
+      "text": "The speed of electromagnetic waves in vacuum is approximately:",
+      "options": [
+        "$3.0\\times10^6\\,m/s$",
+        "$3.0\\times10^7\\,m/s$",
+        "$3.0\\times10^8\\,m/s$",
+        "$3.0\\times10^9\\,m/s$"
+      ],
+      "answer": 2,
+      "explanation": "The speed of light in vacuum is $3.0\\times10^8\\,m/s$."
+    },
+    {
+      "id": "q20",
+      "text": "Which statement best explains why changing electric fields can produce magnetic fields?",
+      "options": [
+        "It is predicted by Coulomb's law.",
+        "It follows from Maxwell's addition to Ampère's law.",
+        "It is a consequence of Ohm's law.",
+        "It follows directly from Biot-Savart law."
+      ],
+      "answer": 1,
+      "explanation": "Maxwell introduced displacement current, showing that time-varying electric fields generate magnetic fields."
+    },
+    {
+      "id": "q21",
+      "text": "A sinusoidal voltage has a peak value of $311\\,V$. Its rms value is:",
+      "options": [
+        "$110\\,V$",
+        "$220\\,V$",
+        "$311\\,V$",
+        "$155.5\\,V$"
+      ],
+      "answer": 1,
+      "explanation": "For a sinusoidal voltage, $V_{rms}=\\frac{V_0}{\\sqrt{2}}=\\frac{311}{1.414}\\approx220\\,V$."
+    },
+    {
+      "id": "q22",
+      "text": "A pure inductor of inductance $0.20\\,H$ is connected to a $50\\,Hz$ AC supply. Its inductive reactance is approximately:",
+      "options": [
+        "$31.4\\,\\Omega$",
+        "$62.8\\,\\Omega$",
+        "$94.2\\,\\Omega$",
+        "$125.7\\,\\Omega$"
+      ],
+      "answer": 1,
+      "explanation": "Use $X_L=2\\pi fL=2\\pi(50)(0.2)=62.8\\,\\Omega$."
+    },
+    {
+      "id": "q23",
+      "text": "A capacitor of capacitance $100\\,\\mu F$ is connected to a $50\\,Hz$ supply. The capacitive reactance is closest to:",
+      "options": [
+        "$15.9\\,\\Omega$",
+        "$31.8\\,\\Omega$",
+        "$63.7\\,\\Omega$",
+        "$318\\,\\Omega$"
+      ],
+      "answer": 1,
+      "explanation": "Use $X_C=\\frac{1}{2\\pi fC}=\\frac{1}{2\\pi(50)(100\\times10^{-6})}\\approx31.8\\,\\Omega$."
+    },
+    {
+      "id": "q24",
+      "text": "A series RL circuit has $R=30\\,\\Omega$ and $X_L=40\\,\\Omega$. The impedance of the circuit is:",
+      "options": [
+        "$35\\,\\Omega$",
+        "$50\\,\\Omega$",
+        "$70\\,\\Omega$",
+        "$10\\,\\Omega$"
+      ],
+      "answer": 1,
+      "explanation": "Use $Z=\\sqrt{R^2+X_L^2}=\\sqrt{30^2+40^2}=50\\,\\Omega$."
+    },
+    {
+      "id": "q25",
+      "text": "A series RLC circuit has resistance $R=15\\,\\Omega$, inductive reactance $X_L=20\\,\\Omega$, and capacitive reactance $X_C=5\\,\\Omega$. The impedance of the circuit is:",
+      "options": [
+        "$15\\,\\Omega$",
+        "$18\\,\\Omega$",
+        "$21.2\\,\\Omega$",
+        "$25\\,\\Omega$"
+      ],
+      "answer": 2,
+      "explanation": "Using $Z=\\sqrt{R^2+(X_L-X_C)^2}=\\sqrt{15^2+15^2}=\\sqrt{450}=21.2\\,\\Omega$."
+    },
+    {
+      "id": "q26",
+      "text": "At resonance in a series RLC circuit:",
+      "options": [
+        "The impedance is maximum.",
+        "The current is minimum.",
+        "The inductive and capacitive reactances are equal.",
+        "The power factor is zero."
+      ],
+      "answer": 2,
+      "explanation": "At resonance, $X_L=X_C$, impedance is minimum and current is maximum."
+    },
+    {
+      "id": "q27",
+      "text": "The power factor of a purely resistive AC circuit is:",
+      "options": [
+        "0",
+        "0.5",
+        "1",
+        "$\\frac{1}{\\sqrt2}$"
+      ],
+      "answer": 2,
+      "explanation": "Voltage and current are in phase in a purely resistive circuit."
+    },
+    {
+      "id": "q28",
+      "text": "Which of the following correctly states Faraday's law of electromagnetic induction?",
+      "options": [
+        "The induced emf is proportional to the magnetic field only.",
+        "The induced emf equals the rate of change of electric field.",
+        "The induced emf is proportional to the rate of change of magnetic flux linkage.",
+        "The induced current is directly proportional to resistance."
+      ],
+      "answer": 2,
+      "explanation": "Faraday's law states $\\varepsilon=-N\\frac{d\\Phi}{dt}$."
+    },
+    {
+      "id": "q29",
+      "text": "Which one of Maxwell's equations predicts that magnetic field lines form closed loops?",
+      "options": [
+        "$\\nabla\\cdot\\mathbf{E}=\\rho/\\varepsilon_0$",
+        "$\\nabla\\times\\mathbf{E}=-\\frac{\\partial\\mathbf{B}}{\\partial t}$",
+        "$\\nabla\\cdot\\mathbf{B}=0$",
+        "$\\nabla\\times\\mathbf{B}=\\mu_0\\mathbf{J}$"
+      ],
+      "answer": 2,
+      "explanation": "Gauss' law for magnetism states that the net magnetic flux through any closed surface is zero."
+    },
+    {
+      "id": "q30",
+      "text": "A student claims that Maxwell's greatest contribution to electromagnetism was proving that changing magnetic fields produce electric fields. Which statement is MOST accurate?",
+      "options": [
+        "The statement is completely correct.",
+        "The statement is false because Faraday discovered that relationship.",
+        "Maxwell's major contribution was introducing displacement current, completing the symmetry of electromagnetism.",
+        "Maxwell discovered Coulomb's law."
+      ],
+      "answer": 2,
+      "explanation": "Faraday established electromagnetic induction experimentally. Maxwell introduced displacement current, completing the set of equations and predicting electromagnetic waves."
+    },
+    {
+      "id": "q31",
+      "text": "A series RLC circuit has resistance $R=30\\,\\Omega$, inductive reactance $X_L=40\\,\\Omega$, and capacitive reactance $X_C=10\\,\\Omega$. The impedance of the circuit is:",
+      "options": [
+        "$30\\,\\Omega$",
+        "$42.4\\,\\Omega$",
+        "$50\\,\\Omega$",
+        "$60\\,\\Omega$"
+      ],
+      "answer": 1,
+      "explanation": "The net reactance is $X=X_L-X_C=40-10=30\\,\\Omega$. Hence, $Z=\\sqrt{R^2+X^2}=\\sqrt{30^2+30^2}=\\sqrt{1800}=42.4\\,\\Omega$."
+    },
+    {
+      "id": "q32",
+      "text": "An AC source of $240\\,V_{rms}$ supplies a current of $8\\,A$ at a power factor of 0.80. The average power consumed is:",
+      "options": [
+        "$960\\,W$",
+        "$1536\\,W$",
+        "$1920\\,W$",
+        "$2400\\,W$"
+      ],
+      "answer": 1,
+      "explanation": "Use $P=VI\\cos\\phi=240\\times8\\times0.8=1536\\,W$."
+    },
+    {
+      "id": "q33",
+      "text": "A transformer has an efficiency of 95%. If the input power is $1000\\,W$, the output power is:",
+      "options": [
+        "$900\\,W$",
+        "$925\\,W$",
+        "$950\\,W$",
+        "$1000\\,W$"
+      ],
+      "answer": 2,
+      "explanation": "Efficiency $=\\frac{P_{out}}{P_{in}}\\times100\\%$. Therefore $P_{out}=0.95\\times1000=950\\,W$."
+    },
+    {
+      "id": "q34",
+      "text": "Which one of the following is NOT a consequence of Maxwell's electromagnetic theory?",
+      "options": [
+        "Light is an electromagnetic wave.",
+        "Changing electric fields produce magnetic fields.",
+        "Electromagnetic waves can propagate through vacuum.",
+        "The speed of sound in air equals the speed of light in vacuum."
+      ],
+      "answer": 3,
+      "explanation": "The speed of sound is much smaller than the speed of light."
+    },
+    {
+      "id": "q35",
+      "text": "A conducting rod moves perpendicularly through a uniform magnetic field. The induced emf depends on:",
+      "options": [
+        "The magnetic field only.",
+        "The rod length only.",
+        "The speed of the rod only.",
+        "The magnetic field strength, rod length and speed."
+      ],
+      "answer": 3,
+      "explanation": "The motional emf is $\\varepsilon=Blv$."
+    },
+    {
+      "id": "q36",
+      "text": "The primary purpose of laminating the iron core of a transformer is to:",
+      "options": [
+        "Increase magnetic flux.",
+        "Reduce eddy current losses.",
+        "Increase the number of turns.",
+        "Increase the operating frequency."
+      ],
+      "answer": 1,
+      "explanation": "Thin insulated laminations reduce circulating eddy currents."
+    },
+    {
+      "id": "q37",
+      "text": "The magnetic field inside a long solenoid is directly proportional to:",
+      "options": [
+        "The square of the current.",
+        "The current and the number of turns per unit length.",
+        "The radius of the solenoid only.",
+        "The resistance of the wire."
+      ],
+      "answer": 1,
+      "explanation": "For a long solenoid, $B=\\mu_0nI$."
+    },
+    {
+      "id": "q38",
+      "text": "According to Ampère's circuital law, the line integral of the magnetic field around a closed path is proportional to:",
+      "options": [
+        "The enclosed electric charge.",
+        "The enclosed current.",
+        "The electric potential.",
+        "The magnetic flux."
+      ],
+      "answer": 1,
+      "explanation": "Ampère's law gives $\\oint\\mathbf{B}\\cdot d\\mathbf{l}=\\mu_0I_{enc}$."
+    },
+    {
+      "id": "q39",
+      "text": "Two identical inductors are connected in series without mutual coupling. If each has an inductance of $5\\,H$, the equivalent inductance is:",
+      "options": [
+        "$2.5\\,H$",
+        "$5\\,H$",
+        "$7.5\\,H$",
+        "$10\\,H$"
+      ],
+      "answer": 3,
+      "explanation": "For series inductors with no mutual coupling, inductances add directly."
+    },
+    {
+      "id": "q40",
+      "text": "A student is asked why electromagnetic waves are transverse. Which response is MOST correct?",
+      "options": [
+        "Because the electric field is parallel to the direction of propagation.",
+        "Because the magnetic field is parallel to the electric field.",
+        "Because the electric field, magnetic field and direction of propagation are mutually perpendicular.",
+        "Because electromagnetic waves require a material medium."
+      ],
+      "answer": 2,
+      "explanation": "In an electromagnetic wave, $\\mathbf{E}$, $\\mathbf{B}$, and the direction of propagation are mutually perpendicular."
+    }
   ]
+}
