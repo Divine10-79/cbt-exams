@@ -71,7 +71,7 @@
   "date": "2026-08-06",
   "duration_minutes": 40,
   "question_count": 40,
-  "questionsUrl": "https://raw.githubusercontent.com/Divine10-79/cbt-exams/main/phy102-em-mock/questions.json"
+  "https://raw.githubusercontent.com/Divine10-79/cbt-exams/refs/heads/main/PHY%20102/questions.json"
 },
   {
  "id": "phy104-shm-waves",
