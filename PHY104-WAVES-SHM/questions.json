@@ -578,4 +578,7 @@
         "$1$"
       ],
       "answer": 1,
-      "explanation": "$a=-\\omega^2x=-\\omega^2A\\sin\\omeg
+      "explanation": "In an electromagnetic wave, $\\mathbf{B}$, and the direction of propagation are mutually perpendicular."
+    }
+  ]
+}
