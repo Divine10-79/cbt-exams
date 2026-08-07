@@ -1,0 +1,581 @@
+{
+  "id": "phy104-shm-waves",
+  "title": "PHY 104 SHM and Waves Mock Examination",
+  "courseCode": "PHY 104",
+  "duration_minutes": 47,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "A particle executes simple harmonic motion according to $x = 0.08\\cos(5\\pi t)$ m. The maximum speed of the particle is",
+      "options": [
+        "$0.40\\pi$ m/s",
+        "$0.08\\pi$ m/s",
+        "$5\\pi$ m/s",
+        "$0.20\\pi$ m/s"
+      ],
+      "answer": 0,
+      "explanation": "Maximum speed in SHM is $v_{\\max}=A\\omega=0.08\\times5\\pi=0.40\\pi$ m/s."
+    },
+    {
+      "id": "q2",
+      "text": "The phase difference between two particles separated by a distance of $\\frac{3\\lambda}{4}$ along the direction of propagation of a wave is",
+      "options": [
+        "$\\frac{\\pi}{2}$ rad",
+        "$\\frac{3\\pi}{2}$ rad",
+        "$\\frac{3\\pi}{4}$ rad",
+        "$2\\pi$ rad"
+      ],
+      "answer": 1,
+      "explanation": "$\\Delta\\phi=\\frac{2\\pi x}{\\lambda}=\\frac{2\\pi(3\\lambda/4)}{\\lambda}=\\frac{3\\pi}{2}$ rad."
+    },
+    {
+      "id": "q3",
+      "text": "A wave travelling in a stretched string has a frequency of 125 Hz and a wavelength of 1.6 m. The speed of the wave is",
+      "options": [
+        "80 m/s",
+        "200 m/s",
+        "125 m/s",
+        "320 m/s"
+      ],
+      "answer": 1,
+      "explanation": "Wave speed is $v=f\\lambda=125\\times1.6=200$ m/s."
+    },
+    {
+      "id": "q4",
+      "text": "The total mechanical energy of a particle executing SHM is doubled while its amplitude remains unchanged. Which of the following quantities must also double?",
+      "options": [
+        "Amplitude",
+        "Angular frequency",
+        "Spring constant",
+        "None of the above"
+      ],
+      "answer": 3,
+      "explanation": "For a given system, doubling the energy without changing amplitude is not possible because $E=\\frac{1}{2}kA^2$."
+    },
+    {
+      "id": "q5",
+      "text": "Two waves of equal amplitude travelling in opposite directions interfere to produce a stationary wave. The distance between two successive nodes is",
+      "options": [
+        "$\\lambda$",
+        "$\\frac{\\lambda}{4}$",
+        "$\\frac{\\lambda}{2}$",
+        "$2\\lambda$"
+      ],
+      "answer": 2,
+      "explanation": "Adjacent nodes in a stationary wave are separated by $\\frac{\\lambda}{2}$."
+    },
+    {
+      "id": "q6",
+      "text": "An object performing SHM has a period of 0.40 s. Its angular frequency is",
+      "options": [
+        "$2.5\\pi$ rad/s",
+        "$5\\pi$ rad/s",
+        "$10\\pi$ rad/s",
+        "$20\\pi$ rad/s"
+      ],
+      "answer": 1,
+      "explanation": "$\\omega=\\frac{2\\pi}{T}=\\frac{2\\pi}{0.40}=5\\pi$ rad/s."
+    },
+    {
+      "id": "q7",
+      "text": "Two tuning forks of frequencies 384 Hz and 390 Hz are sounded together. The beat frequency produced is",
+      "options": [
+        "774 Hz",
+        "6 Hz",
+        "3 Hz",
+        "384 Hz"
+      ],
+      "answer": 1,
+      "explanation": "Beat frequency is the absolute difference: $|390-384|=6$ Hz."
+    },
+    {
+      "id": "q8",
+      "text": "A sound wave of frequency 4.5 kHz travels through air at 360 m/s. Its wavelength is",
+      "options": [
+        "0.08 m",
+        "8.0 m",
+        "0.80 m",
+        "0.125 m"
+      ],
+      "answer": 0,
+      "explanation": "Convert 4.5 kHz to 4500 Hz. Then $\\lambda=\\frac{360}{4500}=0.08$ m."
+    },
+    {
+      "id": "q9",
+      "text": "A closed organ pipe resonates at its fundamental frequency. If the length of the pipe is doubled while the speed of sound remains constant, the new fundamental frequency becomes",
+      "options": [
+        "Four times the original value",
+        "Twice the original value",
+        "Half the original value",
+        "Unchanged"
+      ],
+      "answer": 2,
+      "explanation": "For a closed pipe, $f=\\frac{v}{4L}$. Doubling $L$ halves the frequency."
+    },
+    {
+      "id": "q10",
+      "text": "A particle in SHM has displacement $x=+A/2$. The magnitude of its acceleration is",
+      "options": [
+        "$\\frac{\\omega^2A}{2}$",
+        "$\\omega A$",
+        "$\\frac{\\omega A}{2}$",
+        "$\\omega^2A$"
+      ],
+      "answer": 0,
+      "explanation": "Acceleration in SHM is $a=-\\omega^2x$. At $x=A/2$, $|a|=\\frac{\\omega^2A}{2}$."
+    },
+    {
+      "id": "q11",
+      "text": "A particle executes SHM with amplitude 12 cm. At what displacement is the kinetic energy equal to three times the potential energy?",
+      "options": [
+        "$6\\sqrt{3}$ cm",
+        "$6$ cm",
+        "$3\\sqrt{3}$ cm",
+        "$12\\sqrt{3}$ cm"
+      ],
+      "answer": 1,
+      "explanation": "Since $K=3U$, total energy $E=4U$. Thus $U=E/4$. Using $\\frac{x^2}{A^2}=\\frac{1}{4}$ gives $x=A/2=6$ cm."
+    },
+    {
+      "id": "q12",
+      "text": "Which one of the following quantities remains constant throughout the motion of a particle executing ideal simple harmonic motion?",
+      "options": [
+        "Velocity",
+        "Acceleration",
+        "Potential energy",
+        "Total mechanical energy"
+      ],
+      "answer": 3,
+      "explanation": "In ideal SHM, kinetic and potential energies change continuously, but their sum remains constant."
+    },
+    {
+      "id": "q13",
+      "text": "Two waves are represented by $y_1=A\\sin\\omega t$ and $y_2=A\\sin(\\omega t+\\pi)$. The resultant amplitude is",
+      "options": [
+        "$2A$",
+        "$A$",
+        "$0$",
+        "$\\sqrt{2}A$"
+      ],
+      "answer": 2,
+      "explanation": "The waves are $180^\\circ$ out of phase, producing complete destructive interference."
+    },
+    {
+      "id": "q14",
+      "text": "A wave has a frequency of 500 Hz and travels at 250 m/s. How many complete wavelengths occupy a distance of 3 m?",
+      "options": [
+        "5",
+        "6",
+        "4",
+        "8"
+      ],
+      "answer": 1,
+      "explanation": "$\\lambda=v/f=250/500=0.5$ m. Number of wavelengths $=3/0.5=6$."
+    },
+    {
+      "id": "q15",
+      "text": "The displacement of a particle executing SHM is zero. Which statement is correct at that instant?",
+      "options": [
+        "Velocity and acceleration are both maximum.",
+        "Velocity is maximum while acceleration is zero.",
+        "Velocity is zero while acceleration is maximum.",
+        "Both velocity and acceleration are zero."
+      ],
+      "answer": 1,
+      "explanation": "At the mean position, displacement and acceleration are zero while speed is maximum."
+    },
+    {
+      "id": "q16",
+      "text": "A stationary wave is formed on a string. The distance between a node and the next antinode is 15 cm. The wavelength of the wave is",
+      "options": [
+        "30 cm",
+        "45 cm",
+        "60 cm",
+        "15 cm"
+      ],
+      "answer": 2,
+      "explanation": "Node to adjacent antinode is $\\lambda/4$. Hence $\\lambda=4\\times15=60$ cm."
+    },
+    {
+      "id": "q17",
+      "text": "An echo is heard 2.4 s after a shout. Taking the speed of sound in air as 340 m/s, the distance of the reflecting surface from the observer is",
+      "options": [
+        "408 m",
+        "816 m",
+        "340 m",
+        "204 m"
+      ],
+      "answer": 0,
+      "explanation": "$d=\\frac{vt}{2}=\\frac{340\\times2.4}{2}=408$ m."
+    },
+    {
+      "id": "q18",
+      "text": "The first overtone of a closed organ pipe is",
+      "options": [
+        "The second harmonic",
+        "The third harmonic",
+        "The fourth harmonic",
+        "The fifth harmonic"
+      ],
+      "answer": 1,
+      "explanation": "Closed pipes support only odd harmonics. Therefore, the first overtone is the third harmonic."
+    },
+    {
+      "id": "q19",
+      "text": "A source of sound moves towards a stationary observer. Which of the following remains unchanged?",
+      "options": [
+        "Observed frequency",
+        "Observed wavelength",
+        "Speed of sound in air",
+        "Pitch of the sound"
+      ],
+      "answer": 2,
+      "explanation": "The speed of sound depends on the medium, not on the motion of the source."
+    },
+    {
+      "id": "q20",
+      "text": "A body executing SHM completes 300 oscillations in 2 minutes. The angular frequency of the motion is",
+      "options": [
+        "$10\\pi$ rad/s",
+        "$2.5\\pi$ rad/s",
+        "$5\\pi$ rad/s",
+        "$20\\pi$ rad/s"
+      ],
+      "answer": 2,
+      "explanation": "Frequency $f=300/120=2.5$ Hz. Therefore $\\omega=2\\pi f=5\\pi$ rad/s."
+    },
+    {
+      "id": "q21",
+      "text": "A particle executes SHM with amplitude 10 cm. Its displacement from the mean position when its potential energy is equal to its kinetic energy is",
+      "options": [
+        "$5\\sqrt{2}$ cm",
+        "$5$ cm",
+        "$10\\sqrt{2}$ cm",
+        "$2.5\\sqrt{2}$ cm"
+      ],
+      "answer": 0,
+      "explanation": "When KE = PE, each equals half the total energy. Thus $x=\\frac{A}{\\sqrt{2}}=\\frac{10}{\\sqrt{2}}=5\\sqrt{2}$ cm."
+    },
+    {
+      "id": "q22",
+      "text": "A wave travels from one medium into another. Which of the following quantities remains unchanged?",
+      "options": [
+        "Speed",
+        "Frequency",
+        "Wavelength",
+        "Amplitude"
+      ],
+      "answer": 1,
+      "explanation": "The frequency is determined by the source and remains constant when a wave enters another medium."
+    },
+    {
+      "id": "q23",
+      "text": "Two tuning forks produce 9 beats per second. If one fork has a frequency of 512 Hz, the possible frequency of the other fork is",
+      "options": [
+        "503 Hz or 521 Hz",
+        "521 Hz only",
+        "503 Hz only",
+        "512 Hz"
+      ],
+      "answer": 0,
+      "explanation": "The second frequency may be $512\\pm9$, giving 503 Hz or 521 Hz."
+    },
+    {
+      "id": "q24",
+      "text": "The equation of a progressive wave is $y=0.04\\sin(100\\pi t-5\\pi x)$. The wavelength of the wave is",
+      "options": [
+        "0.20 m",
+        "0.40 m",
+        "2.5 m",
+        "5.0 m"
+      ],
+      "answer": 1,
+      "explanation": "Wave number $k=5\\pi=\\frac{2\\pi}{\\lambda}$. Hence $\\lambda=\\frac{2\\pi}{5\\pi}=0.40$ m."
+    },
+    {
+      "id": "q25",
+      "text": "Which of the following statements about resonance is CORRECT?",
+      "options": [
+        "Resonance occurs when damping is maximum.",
+        "Resonance occurs when the driving frequency equals the natural frequency.",
+        "Resonance occurs only in sound waves.",
+        "Resonance decreases the amplitude of vibration."
+      ],
+      "answer": 1,
+      "explanation": "Resonance occurs when the driving frequency equals the natural frequency, producing maximum amplitude."
+    },
+    {
+      "id": "q26",
+      "text": "An open organ pipe has a fundamental frequency of 250 Hz. Its second harmonic is",
+      "options": [
+        "125 Hz",
+        "375 Hz",
+        "500 Hz",
+        "750 Hz"
+      ],
+      "answer": 2,
+      "explanation": "For an open pipe, all harmonics exist. Thus $f_2=2f_1=500$ Hz."
+    },
+    {
+      "id": "q27",
+      "text": "A particle in SHM moves from one extreme position to the opposite extreme position in 0.25 s. The period of oscillation is",
+      "options": [
+        "0.25 s",
+        "0.50 s",
+        "1.00 s",
+        "2.00 s"
+      ],
+      "answer": 1,
+      "explanation": "Motion from one extreme to the opposite extreme takes half a period. Therefore $T=2\\times0.25=0.50$ s."
+    },
+    {
+      "id": "q28",
+      "text": "A source emitting a note of frequency 900 Hz moves away from a stationary observer. The observer will hear",
+      "options": [
+        "A frequency greater than 900 Hz",
+        "Exactly 900 Hz",
+        "A frequency less than 900 Hz",
+        "A sound of greater amplitude only"
+      ],
+      "answer": 2,
+      "explanation": "When the source moves away, the observed frequency decreases due to the Doppler effect."
+    },
+    {
+      "id": "q29",
+      "text": "The distance between two successive compressions in a longitudinal wave is",
+      "options": [
+        "$\\frac{\\lambda}{2}$",
+        "$\\lambda$",
+        "$2\\lambda$",
+        "$\\frac{\\lambda}{4}$"
+      ],
+      "answer": 1,
+      "explanation": "The distance between successive compressions (or rarefactions) is one wavelength."
+    },
+    {
+      "id": "q30",
+      "text": "A closed organ pipe is 0.85 m long. Taking the speed of sound in air as 340 m/s, its fundamental frequency is",
+      "options": [
+        "50 Hz",
+        "100 Hz",
+        "200 Hz",
+        "400 Hz"
+      ],
+      "answer": 1,
+      "explanation": "$f=\\frac{v}{4L}=\\frac{340}{4\\times0.85}=100$ Hz."
+    },
+    {
+      "id": "q31",
+      "text": "A particle executes SHM according to $x=5\\cos(4t)$, where $x$ is in metres and $t$ in seconds. The maximum acceleration of the particle is",
+      "options": [
+        "20 m/s²",
+        "40 m/s²",
+        "80 m/s²",
+        "16 m/s²"
+      ],
+      "answer": 2,
+      "explanation": "Maximum acceleration is $a_{\\max}=\\omega^2A=4^2\\times5=80$ m/s²."
+    },
+    {
+      "id": "q32",
+      "text": "A travelling wave is represented by $y=0.02\\sin(80\\pi t-4\\pi x)$. The speed of the wave is",
+      "options": [
+        "10 m/s",
+        "20 m/s",
+        "40 m/s",
+        "80 m/s"
+      ],
+      "answer": 1,
+      "explanation": "$\\omega=80\\pi$ and $k=4\\pi$. Hence $v=\\omega/k=20$ m/s."
+    },
+    {
+      "id": "q33",
+      "text": "A simple pendulum has a period of 2 s. If its length is increased fourfold while $g$ remains constant, the new period is",
+      "options": [
+        "2 s",
+        "4 s",
+        "6 s",
+        "8 s"
+      ],
+      "answer": 1,
+      "explanation": "Since $T\\propto\\sqrt{L}$, quadrupling the length doubles the period."
+    },
+    {
+      "id": "q34",
+      "text": "The phase difference corresponding to a path difference of $\\frac{5\\lambda}{2}$ is",
+      "options": [
+        "$2\\pi$ rad",
+        "$3\\pi$ rad",
+        "$5\\pi$ rad",
+        "$\\frac{5\\pi}{2}$ rad"
+      ],
+      "answer": 2,
+      "explanation": "$\\Delta\\phi=\\frac{2\\pi}{\\lambda}\\times\\frac{5\\lambda}{2}=5\\pi$ rad."
+    },
+    {
+      "id": "q35",
+      "text": "A stationary observer hears a frequency lower than that emitted by a moving source. Which statement must be true?",
+      "options": [
+        "The observer is moving towards the source.",
+        "The source is moving towards the observer.",
+        "The source is moving away from the observer.",
+        "The speed of sound has increased."
+      ],
+      "answer": 2,
+      "explanation": "A receding source produces a lower observed frequency due to the Doppler effect."
+    },
+    {
+      "id": "q36",
+      "text": "A closed organ pipe resonates at frequencies 170 Hz, 510 Hz and 850 Hz. The next resonant frequency is",
+      "options": [
+        "1020 Hz",
+        "1190 Hz",
+        "1360 Hz",
+        "1530 Hz"
+      ],
+      "answer": 1,
+      "explanation": "Closed pipes have only odd harmonics: 1st, 3rd, 5th, 7th... Hence the next is $7\\times170=1190$ Hz."
+    },
+    {
+      "id": "q37",
+      "text": "The velocity of a particle executing SHM is greatest when the particle is",
+      "options": [
+        "At either extreme position",
+        "At the mean position",
+        "Halfway between the mean and an extreme position",
+        "At any position because velocity is constant"
+      ],
+      "answer": 1,
+      "explanation": "Velocity is maximum at the equilibrium (mean) position."
+    },
+    {
+      "id": "q38",
+      "text": "A man standing 255 m from a cliff claps his hands. Assuming the speed of sound is 340 m/s, the time taken to hear the echo is",
+      "options": [
+        "0.75 s",
+        "1.00 s",
+        "1.50 s",
+        "2.00 s"
+      ],
+      "answer": 2,
+      "explanation": "$t=\\frac{2d}{v}=\\frac{2\\times255}{340}=1.5$ s."
+    },
+    {
+      "id": "q39",
+      "text": "The SI unit of wave number is",
+      "options": [
+        "m",
+        "m⁻¹",
+        "rad",
+        "Hz"
+      ],
+      "answer": 1,
+      "explanation": "Wave number $k=\\frac{2\\pi}{\\lambda}$ has the SI unit m⁻¹."
+    },
+    {
+      "id": "q40",
+      "text": "A body performs SHM with amplitude $A$. The ratio of its kinetic energy to potential energy when its displacement is $\\frac{A}{2}$ is",
+      "options": [
+        "1 : 3",
+        "3 : 1",
+        "1 : 1",
+        "2 : 1"
+      ],
+      "answer": 1,
+      "explanation": "At $x=A/2$, $PE=\\frac{1}{4}E$ and $KE=\\frac{3}{4}E$. Hence $KE:PE=3:1$."
+    },
+    {
+      "id": "q41",
+      "text": "A particle executes SHM with amplitude 8 cm. At what displacement is the magnitude of its velocity equal to $\\frac{\\sqrt{3}}{2}$ of its maximum velocity?",
+      "options": [
+        "2 cm",
+        "4 cm",
+        "$4\\sqrt{3}$ cm",
+        "$2\\sqrt{3}$ cm"
+      ],
+      "answer": 1,
+      "explanation": "Using $v=\\omega\\sqrt{A^2-x^2}$ and $v=\\frac{\\sqrt{3}}{2}v_{\\max}$ gives $x=A/2=4$ cm."
+    },
+    {
+      "id": "q42",
+      "text": "An open organ pipe and a closed organ pipe have the same length. If the fundamental frequency of the open pipe is 400 Hz, the fundamental frequency of the closed pipe is",
+      "options": [
+        "100 Hz",
+        "200 Hz",
+        "400 Hz",
+        "800 Hz"
+      ],
+      "answer": 1,
+      "explanation": "For the same length, the fundamental frequency of a closed pipe is half that of an open pipe."
+    },
+    {
+      "id": "q43",
+      "text": "The equation of a progressive wave is $y=0.03\\sin(120\\pi t-6\\pi x)$. The frequency of the wave is",
+      "options": [
+        "30 Hz",
+        "60 Hz",
+        "120 Hz",
+        "240 Hz"
+      ],
+      "answer": 1,
+      "explanation": "$\\omega=120\\pi=2\\pi f$. Therefore $f=60$ Hz."
+    },
+    {
+      "id": "q44",
+      "text": "Two particles on a wave differ in phase by $90^\\circ$. Their minimum possible separation along the direction of propagation is",
+      "options": [
+        "$\\lambda$",
+        "$\\frac{\\lambda}{2}$",
+        "$\\frac{\\lambda}{4}$",
+        "$2\\lambda$"
+      ],
+      "answer": 2,
+      "explanation": "A phase difference of $90^\\circ$ corresponds to a path difference of $\\lambda/4$."
+    },
+    {
+      "id": "q45",
+      "text": "Which one of the following statements about beats is CORRECT?",
+      "options": [
+        "Beats are produced only when two sources have exactly the same frequency.",
+        "Beat frequency is equal to the sum of the two frequencies.",
+        "Beats are produced by two waves of slightly different frequencies.",
+        "Beat frequency depends only on the amplitude of the waves."
+      ],
+      "answer": 2,
+      "explanation": "Beats occur due to interference between two waves whose frequencies differ slightly."
+    },
+    {
+      "id": "q46",
+      "text": "A wave has a wavelength of 80 cm and a frequency of 250 Hz. The speed of the wave is",
+      "options": [
+        "125 m/s",
+        "200 m/s",
+        "250 m/s",
+        "320 m/s"
+      ],
+      "answer": 1,
+      "explanation": "Convert 80 cm to 0.80 m. Then $v=f\\lambda=250\\times0.80=200$ m/s."
+    },
+    {
+      "id": "q47",
+      "text": "The main reason soldiers are instructed to break step while crossing a bridge is to",
+      "options": [
+        "Reduce air resistance.",
+        "Prevent resonance which may damage the bridge.",
+        "Reduce the weight acting on the bridge.",
+        "Increase friction between their boots and the bridge."
+      ],
+      "answer": 1,
+      "explanation": "Marching in step may cause resonance if the marching frequency equals the bridge's natural frequency."
+    },
+    {
+      "id": "q48",
+      "text": "A particle executing SHM has displacement given by $x=A\\sin\\omega t$. At the instant when $\\omega t=\\frac{\\pi}{3}$, the ratio of its acceleration to its maximum acceleration is",
+      "options": [
+        "$\\frac{1}{2}$",
+        "$\\frac{\\sqrt{3}}{2}$",
+        "$\\frac{3}{2}$",
+        "$1$"
+      ],
+      "answer": 1,
+      "explanation": "$a=-\\omega^2x=-\\omega^2A\\sin\\omeg
