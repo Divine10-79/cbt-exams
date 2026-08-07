@@ -578,7 +578,7 @@
         "$1$"
       ],
       "answer": 1,
-      "explanation": "In an electromagnetic wave, $\\mathbf{B}$, and the direction of propagation are mutually perpendicular."
+      "explanation": "Acceleration is $a=-\\omega^2 x = -\\omega^2 A \\sin(\\omega t)$. At $\\omega t=\\pi/3$, $\\sin(\\pi/3)=\\sqrt{3}/2$, so $|a|/a_{max}=\\sqrt{3}/2$."
     }
   ]
 }
