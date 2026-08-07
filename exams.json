@@ -42,8 +42,7 @@
  "date": "2026-07-22",
  "duration_minutes": 20,
  "question_count": 25,
- "questionsUrl":
-"https://raw.githubusercontent.com/Divine10-79/cbt-exams/refs/heads/main/STA112-mock2/questions.json"
+ "questionsUrl": "https://raw.githubusercontent.com/Divine10-79/cbt-exams/refs/heads/main/STA112-mock2/questions.json"
   },
   {
  "id": "sta112-mega-mock",
@@ -52,8 +51,7 @@
  "date": "2026-07-22",
  "duration_minutes": 25,
  "question_count": 25,
- "questionsUrl":
-"https://raw.githubusercontent.com/Divine10-79/cbt-exams/refs/heads/main/STA%20112%20MEGA-MOCK/questions.json"
+ "questionsUrl": "https://raw.githubusercontent.com/Divine10-79/cbt-exams/refs/heads/main/STA%20112%20MEGA-MOCK/questions.json"
   },
   {
   "id": "phy104-shm-master-cbt",
@@ -63,7 +61,7 @@
   "duration_minutes": 20,
   "question_count": 25,
   "questionsUrl": "https://raw.githubusercontent.com/Divine10-79/cbt-exams/main/PHY%20104%20SHM/questions.json"
-  },
+},
   {
   "id": "phy102-em-mock",
   "title": "PHY 102 Electromagnetism Mock CBT",
@@ -71,8 +69,8 @@
   "date": "2026-08-06",
   "duration_minutes": 40,
   "question_count": 40,
-  "https://raw.githubusercontent.com/Divine10-79/cbt-exams/refs/heads/main/PHY%20102/questions.json"
-  },
+  "questionsUrl": "https://raw.githubusercontent.com/Divine10-79/cbt-exams/refs/heads/main/PHY%20102/questions.json"
+},
   {
  "id": "phy104-shm-waves",
  "title": "PHY 104 SHM and Waves Mock Examination",
@@ -80,7 +78,6 @@
  "date": "2026-08-08",
  "duration_minutes": 47,
  "question_count": 50,
- "questionsUrl":
-"https://raw.githubusercontent.com/Divine10-79/cbt-exams/refs/heads/main/PHY104-WAVES-SHM/questions.json"
+ "questionsUrl": "https://raw.githubusercontent.com/Divine10-79/cbt-exams/refs/heads/main/PHY104-WAVES-SHM/questions.json"
   }
 ]
