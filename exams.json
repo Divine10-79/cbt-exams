@@ -73,5 +73,15 @@
  "question_count": 40,
  "questionsUrl":
 "https://raw.githubusercontent.com/Divine10-79/cbt-exams/refs/heads/main/PHY%20102/questions.json"
+  },
+  {
+ "id": "phy104-shm-waves",
+ "title": "PHY 104 SHM and Waves Mock Examination",
+ "courseCode": "PHY 104",
+ "date": "2026-08-08",
+ "duration_minutes": 47,
+ "question_count": 50,
+ "questionsUrl":
+"https://raw.githubusercontent.com/Divine10-79/cbt-exams/refs/heads/main/PHY%20104%20SHM/questions.json"
   }
 ]
